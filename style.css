@@ -1,0 +1,162 @@
+@import url(http://fonts.googleapis.com/earlyaccess/amiri.css);
+.body{font-family: 'Tashabok', serif;
+
+
+}
+
+
+
+
+b[target=_blank] {
+    color: green;
+  }
+  
+  b[target=_gal]{
+    color:#6E5E2B;
+  }  
+  b[target=_blu]{
+    color: #D5B961		;
+  } 
+  .footer-bottom{
+    background-color: #D5B961	!important	;  
+  }
+
+
+.navbar-brand{
+
+    margin-left: 5%;
+
+}
+.navbar-nav{
+    margin-right: 5%;
+}
+.fa-clock-o{
+    font-size: 50px !important;
+
+}
+.card1{
+    background-color: #fff;
+    box-shadow: 2px 4px 5px grey;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.para{
+    text-align: justify;
+
+}
+.fa {
+    padding: 5px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 40%;
+  }
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: palevioletred;
+    color: white;
+  }
+  .footer-bottom{
+      background-color: grey;
+
+  }
+  .btn{
+      background-color: khaki !important;
+  }
+  .tabhead{
+    background-color: khaki !important;  
+  }
+
+  .quida{
+      margin-left: 100pt;
+      margin-bottom: 50pt;
+      
+  }
+  .quidabody{
+      margin-left: 100pt;
+      padding-left: 25%;
+      margin-right: 100pt;
+  }
+  .head3{
+      margin-left: 4%;
+  }
+  .head4{
+
+    margin-left:45% ;
+    margin-top: 5%;
+  }
+  .head5{
+      margin-left: 12%;
+
+  }
+  .head6{
+      margin-left: 6% !important;
+  }
+  .head7{
+      margin-top: 10% !important;
+
+  }
+  
+  .pic{
+      margin-bottom: 5%;
+
+  }
+  .para1{
+      padding-right: 10% !important;
+      margin-right: 40% ;
+      text-align: initial;
+  }
+  .img1 {
+    max-width: 100%;
+    height: auto;
+    margin-right:7% ;
+  }
+  .con{
+      margin-left: 4%;
+  }
+  .nav{
+    margin-top: 10%;
+  }
+  @media only screen and (max-width: 480px) {
+    .nav{
+      margin-top: 50%;
+    }
+  }
+
+
+  @media only screen and (max-width: 580px) {
+    .nav{
+      margin-top: 50%;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    .nav{
+      margin-top: 50%;
+    }
+  }
